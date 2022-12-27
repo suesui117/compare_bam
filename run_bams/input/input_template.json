@@ -1,0 +1,6 @@
+{
+  "runQC.sample_list": [
+  ["aws s3 path to original sample bam.bai"],
+  ["aws s3 path to validation sample bam.bai"]
+  ]
+}
